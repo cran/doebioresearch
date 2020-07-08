@@ -1,0 +1,12 @@
+#' @title Data of Factorial Experiment
+#' @description The data consists of three factors nitrogen, phosphorus and Potassium, replication and two dependent variables yield and plant height. The data is generated manually.
+#' @format The data has 6 columns and 36 rows
+#' \describe{
+#' \item{Nitrogen}{Consist sequence of two nitrogen levels n0 and n1}
+#' \item{Phosphorus}{Consist sequence of two phosphorus levels p0 and p1}
+#' \item{Potassium}{Consist sequence of two potassium levels k0 and k1}
+#' \item{Replication}{Contains replication which has three levels}
+#' \item{Yield}{Yield as dependent variable}
+#' \item{Plant Height}{Plant height as dependent variable}
+#' }
+"factorialdata"

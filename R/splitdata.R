@@ -1,0 +1,11 @@
+#' @title Data for Split plot Design
+#' @description The data consists of replication, date of sowing (as main-plot), varieties (as sub-plot) and two dependent variables yield and plant height. The data is generated manually.
+#' @format The data has 5 columns and 36 rows
+#' \describe{
+#' \item{Replication}{Consist sequence of replications. Replications consists of 3 levels}
+#' \item{Date of Sowing}{Consist sequence of levels of date of sowing as Main-plot. Date of sowing consists of 2 levels}
+#' \item{Varities}{Consist sequence of levels of varities as Sub-plot. Varities consist of 6 levels}
+#' \item{Yield}{Yield as dependent variable}
+#' \item{Plant Height}{Plant height as dependent variable}
+#' }
+"splitdata"
